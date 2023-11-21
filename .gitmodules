@@ -10,3 +10,6 @@
 [submodule "ruby-sorting-orders"]
 	path = ruby-sorting-orders
 	url = https://github.com/Language-learning-projects/ruby-sorting-orders.git
+[submodule "rust-sentence-generator"]
+	path = rust-sentence-generator
+	url = https://github.com/Language-learning-projects/rust-sentence-generator.git
