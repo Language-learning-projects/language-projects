@@ -1,0 +1,12 @@
+[submodule "csharp-maze-game"]
+	path = csharp-maze-game
+	url = https://github.com/Language-learning-projects/csharp-maze-game.git
+[submodule "haskell-encrypted-messaging"]
+	path = haskell-encrypted-messaging
+	url = https://github.com/Language-learning-projects/haskell-encrypted-messaging.git
+[submodule "java-document-classification"]
+	path = java-document-classification
+	url = https://github.com/Language-learning-projects/java-document-classification.git
+[submodule "ruby-sorting-orders"]
+	path = ruby-sorting-orders
+	url = https://github.com/Language-learning-projects/ruby-sorting-orders.git
