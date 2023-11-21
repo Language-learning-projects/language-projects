@@ -16,3 +16,6 @@
 [submodule "go-face-detection"]
 	path = go-face-detection
 	url = https://github.com/Language-learning-projects/go-face-detection.git
+[submodule "python-adventure-game"]
+	path = python-adventure-game
+	url = https://github.com/Language-learning-projects/python-adventure-game.git
