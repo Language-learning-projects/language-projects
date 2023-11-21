@@ -13,3 +13,6 @@
 [submodule "rust-sentence-generator"]
 	path = rust-sentence-generator
 	url = https://github.com/Language-learning-projects/rust-sentence-generator.git
+[submodule "go-face-detection"]
+	path = go-face-detection
+	url = https://github.com/Language-learning-projects/go-face-detection.git
