@@ -19,3 +19,6 @@
 [submodule "python-adventure-game"]
 	path = python-adventure-game
 	url = https://github.com/Language-learning-projects/python-adventure-game.git
+[submodule "cplusplus-file-organizer"]
+	path = cplusplus-file-organizer
+	url = https://github.com/Language-learning-projects/cplusplus-file-organizer.git
