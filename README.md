@@ -15,6 +15,11 @@ The purpose of these projects is to help learn or become more advanced in differ
 - C++
 - JavaScript
 - Python
+- PHP
+- Elixir
+- Erlang
+- Kotlin
+- Dart
 - Sorting algorithms
 - Search algorithms
 - Graph algorithms
