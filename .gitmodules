@@ -22,3 +22,6 @@
 [submodule "cplusplus-file-organizer"]
 	path = cplusplus-file-organizer
 	url = https://github.com/Language-learning-projects/cplusplus-file-organizer.git
+[submodule "javascript-quiz-app"]
+	path = javascript-quiz-app
+	url = https://github.com/Language-learning-projects/javascript-quiz-app.git
