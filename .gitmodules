@@ -25,3 +25,6 @@
 [submodule "javascript-quiz-app"]
 	path = javascript-quiz-app
 	url = https://github.com/Language-learning-projects/javascript-quiz-app.git
+[submodule "elixir-chat-app"]
+	path = elixir-chat-app
+	url = https://github.com/Language-learning-projects/elixir-chat-app.git
