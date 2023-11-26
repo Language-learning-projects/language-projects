@@ -28,3 +28,6 @@
 [submodule "elixir-chat-app"]
 	path = elixir-chat-app
 	url = https://github.com/Language-learning-projects/elixir-chat-app.git
+[submodule "erlang-web-crawler"]
+	path = erlang-web-crawler
+	url = https://github.com/Language-learning-projects/erlang-web-crawler.git
