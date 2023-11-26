@@ -31,3 +31,6 @@
 [submodule "erlang-web-crawler"]
 	path = erlang-web-crawler
 	url = https://github.com/Language-learning-projects/erlang-web-crawler.git
+[submodule "kotlin-chat-bot"]
+	path = kotlin-chat-bot
+	url = https://github.com/Language-learning-projects/kotlin-chat-bot.git
