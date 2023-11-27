@@ -34,3 +34,6 @@
 [submodule "kotlin-chat-bot"]
 	path = kotlin-chat-bot
 	url = https://github.com/Language-learning-projects/kotlin-chat-bot.git
+[submodule "r-sentiment-analysis"]
+	path = r-sentiment-analysis
+	url = https://github.com/Language-learning-projects/r-sentiment-analysis.git
